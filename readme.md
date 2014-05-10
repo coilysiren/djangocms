@@ -1,3 +1,5 @@
+structure:
+
 	project.db - where all the content is stored
 
 	manage.py - turns things on
