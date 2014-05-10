@@ -1,17 +1,17 @@
-project.db - where all the content is stored
+	project.db - where all the content is stored
 
-manage.py - turns things on
+	manage.py - turns things on
 
-project/
+	project/
 
-	settings.py - backend django and cms settings
+		settings.py - backend django and cms settings
 
-	urls.py - I think paths are stored here put idk really
+		urls.py - I think paths are stored here put idk really
 
-	wsgi.py - something about servers
+		wsgi.py - something about servers
 
-	static/
+		static/
 
-	templates/
+		templates/
 
-		base.html
+			base.html
