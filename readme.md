@@ -1,3 +1,7 @@
+plugins:
+
+	https://github.com/pbs/django-cms-pagetags
+
 structure:
 
 	project.db - where all the content is stored
